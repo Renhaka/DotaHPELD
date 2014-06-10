@@ -1,0 +1,9 @@
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\bin\Debug\DotaHPLED.exe.config
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\bin\Debug\DotaHPLED.exe
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\bin\Debug\DotaHPLED.pdb
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\obj\Debug\DotaHPLED.csprojResolveAssemblyReference.cache
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\obj\Debug\DotaHPLED.Form1.resources
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\obj\Debug\DotaHPLED.Properties.Resources.resources
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\obj\Debug\DotaHPLED.csproj.GenerateResource.Cache
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\obj\Debug\DotaHPLED.exe
+K:\Spare c# Projects\DotaHPLED\DotaHPLED\obj\Debug\DotaHPLED.pdb
